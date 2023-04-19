@@ -1,0 +1,15 @@
+# web-design-study
+
+- <a href="https://github.com/jehianth/web-design-study/blob/c0654aa519548dd072ea44366b0eb7dd37f73f4b/Tugas%202%20Artikel_H1D022006_Jehian%20Athaya%20Tsani%20Az%20Zuhry.pdf">Tugas 1 Artikel </a>(20 Februari 2023)
+- <a href="https://github.com/jehianth/web-design-study/blob/main/Post%20Test%201%20WD.pdf">Post Test 1 </a>(22 Februari 2023)
+- <a href="https://github.com/jehianth/web-design-study/blob/main/H1D022006_Tugas%202_Web%20Design.html">Tugas 2 HTML </a>(6 Maret 2023)
+![image](https://user-images.githubusercontent.com/55863992/226095823-5ea9f461-9dd9-4edf-90fd-915a60cc4448.png)
+- <a href="https://github.com/jehianth/web-design-study/blob/main/Post%20Test%202%20WD.pdf">Post Test 2 </a>(8 Maret 2023)
+- <a href="https://github.com/jehianth/web-design-study/tree/main/H1D022006_Tugas%20HTML_Web%20Design">Tugas 2.5 HTML </a>(15 Maret 2023)
+![Hasil](https://user-images.githubusercontent.com/55863992/226095876-ce41c2f1-12b0-40dd-b555-d3d5b9f78ca9.png)
+- <a href="https://github.com/jehianth/web-design-study/tree/main/H1D022006_Tugas%203_Web%20Design">Tugas 3 HTML </a>(17 Maret 2023)
+![image](https://user-images.githubusercontent.com/55863992/226095924-8a0ca5b6-c33b-4c1d-b089-e1116d825ff8.png)
+- <a href="https://github.com/jehianth/web-design-study/blob/main/Post%20Test%203%20WD.pdf">Post Test 3 </a>(17 Maret 2023)
+- <a href="https://github.com/jehianth/web-design-study/blob/main/H1D022006_Tugas%204_Web%20Design.html">Tugas 4 HTML </a>(17 Maret 2023)
+![image](https://user-images.githubusercontent.com/55863992/226095972-a88633cb-350a-4a42-98d7-8307350d3a1c.png)
+- <a href="https://github.com/jehianth/web-design-study/blob/main/Post%20Test%204%20WD.pdf">Post Test 4  </a>(17 Maret 2023)
