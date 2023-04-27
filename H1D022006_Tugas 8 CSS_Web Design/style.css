@@ -1,0 +1,57 @@
+body {
+    width: 650;
+}
+
+.header img{
+    height: 100;
+}
+
+.menu {
+    width: 650;
+}
+.submenu {
+    float: left;
+    width: 162.5;
+}
+.submenu.white {
+    background-color: antiquewhite;
+}
+.submenu.aqua {
+    background-color:aqua;
+}
+.submenu.aquam {
+    background-color:aquamarine;
+}
+.submenu.cadet {
+    background-color:cadetblue;
+}
+
+table {
+    float: left;
+    background-color:gainsboro;
+    width: 487.5;
+}
+td img {
+    height: 50;
+}
+
+.sidebar {
+    float: left;
+    width: 162.5;
+    height: 167;
+}
+.top {
+    background-color:gold;
+    width: 162.5;
+    height: 83.5;
+}
+.bottom {
+    background-color: greenyellow;
+    width: 162.5;
+    height: 83.5;
+}
+
+.footer {
+    background-color: darkkhaki;
+    text-align: center;
+}
